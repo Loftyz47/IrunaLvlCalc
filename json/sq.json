@@ -1,0 +1,37 @@
+[
+    {
+        "sq_num": 1,
+        "xp_earn": 8400000,
+		"xp_total": 228580000
+    },
+    {
+        "sq_num": 2,
+        "xp_earn": 9380000,
+		"xp_total": 220180000
+    },
+    {
+        "sq_num": 3,
+        "xp_earn": 10400000,
+		"xp_total": 210800000
+    },
+    {
+        "sq_num": 4,
+        "xp_earn": 8800000,
+		"xp_total": 200400000
+    },
+    {
+        "sq_num": 5,
+        "xp_earn": 16600000,
+		"xp_total": 191600000
+    },
+    {
+        "sq_num": 6,
+        "xp_earn": 85000000,
+		"xp_total": 175000000
+    },
+    {
+        "sq_num": 7,
+        "xp_earn": 90000000,
+		"xp_total": 90000000
+    }
+]
