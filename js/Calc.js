@@ -1,4 +1,8 @@
 /*jslint browser:true*/
+/*
+    * Caculator Code
+    * 1Conan
+*/
 document.addEventListener("DOMContentLoaded", function () {
 	'use strict';
 	var lvl,
@@ -82,8 +86,8 @@ document.addEventListener("DOMContentLoaded", function () {
 			inp_exp.value = 100;
 		}
 		
-		if (inp_lvl.value > 330) {
-			inp_lvl.value = 330;
+		if (inp_lvl.value > 360) {
+			inp_lvl.value = 360;
 		}
 		
 		canv_hp_context.clearRect(0, 0, canv_hp.width, canv_hp.height);
